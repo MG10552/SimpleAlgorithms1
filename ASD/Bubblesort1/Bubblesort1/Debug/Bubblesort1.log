@@ -1,0 +1,22 @@
+﻿Build started 2013-11-08 15:11:46.
+     1>Project "c:\Users\s10552\documents\visual studio 2010\Projects\Bubblesort1\Bubblesort1\Bubblesort1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Bubblesort1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Bubblesort1.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Bubblesort1.cpp
+         Bubblesort1.cpp
+     1>c:\users\s10552\documents\visual studio 2010\projects\bubblesort1\bubblesort1\bubblesort1.cpp(33): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\s10552\documents\visual studio 2010\projects\bubblesort1\bubblesort1\bubblesort1.cpp(61): error C2086: '__int64 time1' : redefinition
+                 c:\users\s10552\documents\visual studio 2010\projects\bubblesort1\bubblesort1\bubblesort1.cpp(46) : see declaration of 'time1'
+     1>c:\users\s10552\documents\visual studio 2010\projects\bubblesort1\bubblesort1\bubblesort1.cpp(61): error C2086: '__int64 time2' : redefinition
+                 c:\users\s10552\documents\visual studio 2010\projects\bubblesort1\bubblesort1\bubblesort1.cpp(46) : see declaration of 'time2'
+     1>c:\users\s10552\documents\visual studio 2010\projects\bubblesort1\bubblesort1\bubblesort1.cpp(61): error C2086: '__int64 delta' : redefinition
+                 c:\users\s10552\documents\visual studio 2010\projects\bubblesort1\bubblesort1\bubblesort1.cpp(46) : see declaration of 'delta'
+     1>c:\users\s10552\documents\visual studio 2010\projects\bubblesort1\bubblesort1\bubblesort1.cpp(61): error C2086: '__int64 frequency' : redefinition
+                 c:\users\s10552\documents\visual studio 2010\projects\bubblesort1\bubblesort1\bubblesort1.cpp(46) : see declaration of 'frequency'
+     1>Done Building Project "c:\Users\s10552\documents\visual studio 2010\Projects\Bubblesort1\Bubblesort1\Bubblesort1.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:12.58
